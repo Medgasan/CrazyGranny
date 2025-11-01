@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">673373535982</string>
+  <string name="package_name">com.neoof.ridinghood.catcher.android</string>
+  <string name="achievement_level_1">CgkI7v3CwcwTEAIQAg</string>
+  <string name="achievement_level_2">CgkI7v3CwcwTEAIQAw</string>
+  <string name="achievement_level_3">CgkI7v3CwcwTEAIQBA</string>
+  <string name="achievement_level_4">CgkI7v3CwcwTEAIQBQ</string>
+  <string name="achievement_level_5">CgkI7v3CwcwTEAIQBg</string>
+  <string name="achievement_level_6">CgkI7v3CwcwTEAIQBw</string>
+  <string name="achievement_level_7">CgkI7v3CwcwTEAIQCA</string>
+  <string name="achievement_level_8">CgkI7v3CwcwTEAIQCQ</string>
+  <string name="achievement_level_9">CgkI7v3CwcwTEAIQCg</string>
+  <string name="leaderboard_rankings">CgkI7v3CwcwTEAIQAQ</string>
+</resources>
